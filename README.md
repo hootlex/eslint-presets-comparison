@@ -13,3 +13,4 @@ A Comparison table for JavaScript styles.
 | Space after function name        | Yes             | No                |
 | Start a line with [              | No              | Yes               |
 | End files w/ a newline character | Yes             | Yes               |
+| Trailing commas allowed          | No              | No                |
