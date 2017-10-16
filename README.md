@@ -1,5 +1,5 @@
-# javascript-styles-comparison
-A Comparison table for JavaScript styles.
+# javascript-presets-comparison
+A Comparison table for ESLint presets.
 
 
 | Rule                             | feross/standard | airbnb/javascript |
